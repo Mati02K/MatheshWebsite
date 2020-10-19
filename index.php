@@ -45,7 +45,8 @@ inserti()
 <body>
 
   <!-- ======= Mobile nav toggle button ======= -->
-  <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
+  <button type="button" class="mobile-nav-toggle d-xl-none"><i class="fa fa-bars" aria-hidden="true"></i>
+  </button>
 
   <!-- ======= Header ======= -->
   <header id="header" class="d-flex flex-column justify-content-center">
